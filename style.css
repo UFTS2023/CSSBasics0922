@@ -1,0 +1,30 @@
+div{
+    height: 200px;
+    width: 200px;
+}
+
+p{
+    margin: 0%;
+}
+
+#part1{
+    background-color: red;
+    border: 10px solid black;
+    padding: 40px;
+}
+
+#part2{
+    background-color: yellow;
+    border: 10px solid black;
+    padding: 20px;
+    margin-left: 300px;
+    border-width: 20px 10px;
+}
+
+
+#part3{
+    background-color: green;
+    border: 10px solid black;
+    padding: 20px;
+    margin-left: 40px;
+}
